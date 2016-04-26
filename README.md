@@ -8,9 +8,9 @@ Are you tired of opening Call of Duty 4 on PC and seeing **nothing happen** when
 Just drag the contents of the `src` folder into your `Call of Duty 4 - Modern Warfare` folder.  
 
 **This will probably be in one of the following locations...**  
-`C:/Program Files/Activision/Call of Duty 4 - Modern Warfare`
-`C:/Program Files/Steam/steamapps/common/Call of Duty 4 - Modern Warfare`
-`C:/Program Files (x86)/Activision/Call of Duty 4 - Modern Warfare`
+`C:/Program Files/Activision/Call of Duty 4 - Modern Warfare`  
+`C:/Program Files/Steam/steamapps/common/Call of Duty 4 - Modern Warfare`  
+`C:/Program Files (x86)/Activision/Call of Duty 4 - Modern Warfare`  
 `C:/Program Files (x86)/Steam/steamapps/common/Call of Duty 4 - Modern Warfare`
 
 You'll know you've found the correct folder it if has `iw3mp.exe` in it.
