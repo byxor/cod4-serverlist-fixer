@@ -25,4 +25,4 @@ Any time your server list breaks...
 
 3. Run `FIX_MY_SERVERLIST.bat`.
 
-And you're done! Just re-open your game and the Refresh List button will work! Enjoy!
+And you're done! Just re-open your game and the Refresh List button will work! Enjoy! 
